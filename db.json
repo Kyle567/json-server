@@ -1,6 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "portfolio": [
+    {     "Id": 1,
+         "Name": "Portfolio_One",
+         "EntityCode": "2000",
+         "EntityName": "Entity 2000",
+         "Country": "US",
+         "Enabled": true
+    },
+        {     "Id": 2,
+         "Name": "Portfolio_Two",
+         "EntityCode": "3000",
+         "EntityName": "Entity 3000",
+         "Country": "US",
+         "Enabled": true
+    }
+    ,
+        {     "Id": 3,
+         "Name": "Portfolio_Three",
+         "EntityCode": "2000",
+         "EntityName": "Entity 3000",
+         "Country": "US",
+         "Enabled": true
+    },
+        {     "Id": 4,
+         "Name": "Portfolio_Four",
+         "EntityCode": "2000",
+         "EntityName": "Entity 3000",
+         "Country": "US",
+         "Enabled": true
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
