@@ -1,97 +1,6 @@
 {
   "portfolio": {
-   "data": [
-    {
-      "bankname": "Test bank",
-      "changehash": "611b68272ba84b62c297f7b0ed526eef1c2ae6df",
-      "countrycode": "US",
-      "createdat": "2020-06-20T00:50:13.418095Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3004 Tesla",
-      "id": "007eae97-838f-49ec-b766-6878ace82ffb",
-      "portfolioname": "Test 5",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "BANK 10",
-      "changehash": "69a09ee6c0a986a654d722e467b9ff2e07a20d64",
-      "countrycode": "US",
-      "createdat": "2020-06-22T21:11:44.854921Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3000 Tesla",
-      "id": "0a07dc1b-1ba5-4d5e-a342-e67c28af5b83",
-      "portfolioname": "TEST 10",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "Test bank",
-      "changehash": "8cbecb1670f7c6ad3761a705d5d3407511ab79ed",
-      "countrycode": "US",
-      "createdat": "2020-06-20T00:50:12.675363Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3001 Tesla",
-      "id": "15028817-1f62-4225-b66f-72d876277740",
-      "portfolioname": "Test 2",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "BANK 13",
-      "changehash": "b54609983ecb21d10b61cb5bbb482557280d3553",
-      "countrycode": "US",
-      "createdat": "2020-06-25T17:07:35.630484Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3000",
-      "id": "168fa5d7-157b-4cd0-8437-171b1b6c03e0",
-      "portfolioname": "TEST 13",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "BANK 10",
-      "changehash": "9cc46a532a266e2e2a48672c7c4af9d0e51f42a7",
-      "countrycode": "US",
-      "createdat": "2020-06-22T21:07:32.284449Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3001 Tesla",
-      "id": "1dd327ae-c57f-4a4d-ae23-329a1415e6fb",
-      "portfolioname": "TEST 10",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "Test",
-      "changehash": "3f8fe6f3f113370f9d9e0dd4686c4be7a27514cf",
-      "countrycode": "US",
-      "createdat": "2020-06-25T17:24:32.707893Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3000",
-      "id": "23242cdb-4531-4da7-9fa0-3405321a99e4",
-      "portfolioname": "Test ",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "BANK 13",
-      "changehash": "4f70d1e1502668309aed33f9889012a7436e0a20",
-      "countrycode": "US",
-      "createdat": "2020-06-25T17:04:54.108144Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3000",
-      "id": "4f1571c7-891e-498b-be0a-5edfd4eea90d",
-      "portfolioname": "TEST 13",
-      "space": "portfoliomanagement"
-    },
+   "data": [ 
     {
       "bankname": "Wellsfargo",
       "changehash": "df617efde49e12eb208bc655f6342133f454d96c",
@@ -158,8 +67,8 @@
       "space": "portfoliomanagement"
     }
   ],
-  "count": 12,
-  "total": 12,
+  "count": 5,
+  "total": 5,
   "nextskip": 0
   },
   "comments": [
