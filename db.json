@@ -1,75 +1,70 @@
 {
   "portfolio": {
-   "data": [ 
-    {
-      "bankname": "Wellsfargo",
-      "changehash": "df617efde49e12eb208bc655f6342133f454d96c",
-      "countrycode": "AF",
-      "createdat": "2020-06-25T21:44:31.5548001Z",
-      "createdby": "kylnguyen@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "2955",
-      "id": "518121d4-9adb-4f2f-ab5a-6a0d2e682fa7",
-      "portfolioname": "KyleTest",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "Test bank",
-      "changehash": "21d4b8b0d27ce2492439be50e4faeba4e974222f",
-      "countrycode": "US",
-      "createdat": "2020-06-20T00:50:13.874801Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3006 Tesla",
-      "id": "55db4789-7e6b-4f1d-bd9b-5129cc08b4fc",
-      "portfolioname": "Test 7",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "Test bank",
-      "changehash": "271b355c4c0f542c5cc7361f0a3c4b359a8cca56",
-      "countrycode": "US",
-      "createdat": "2020-06-20T00:50:12.909635Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3002 Tesla",
-      "id": "59e8d0d2-d3fc-4e0a-8f39-d49ee979bd38",
-      "portfolioname": "Test 3",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "TEST 12",
-      "changehash": "35375622334a37bb73a7781497ce5f53577f0392",
-      "countrycode": "US",
-      "createdat": "2020-06-25T17:00:37.317136Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3000",
-      "id": "5aa96ff7-4aa1-4c99-8879-f3f0479672a9",
-      "portfolioname": "TEST 12",
-      "space": "portfoliomanagement"
-    },
-    {
-      "bankname": "BANK 13",
-      "changehash": "09898c0209c07189829c33d4a986b9a301e1cb9a",
-      "countrycode": "US",
-      "createdat": "2020-06-25T17:07:38.954137Z",
-      "createdby": "sagapatel@tesla.com",
-      "dataset": "portfolio",
-      "datasetdescription": "",
-      "entityname": "3000",
-      "id": "5c2faac1-a028-4a43-aa54-e6f3fbf64b43",
-      "portfolioname": "TEST 13",
-      "space": "portfoliomanagement"
-    }
-  ],
-  "count": 5,
-  "total": 5,
-  "nextskip": 0
+    "items": [
+      {
+        "Id": 1,
+        "Name": "Portfolio_One",
+        "EntityCode": "2000",
+        "EntityName": "Entity 2000",
+        "Country": "US",
+        "Enabled": true,
+        "Createdat": "2020-06-26T21:16:08.763749Z",
+        "Createdby": "kylnguyen@tesla.com"
+      },
+      {
+        "Id": 2,
+        "Name": "Portfolio_Two",
+        "EntityCode": "3000",
+        "EntityName": "Entity 3000",
+        "Country": "US",
+        "Enabled": true,
+        "Createdat": "2020-06-26T21:16:08.763749Z",
+        "Createdby": "kylnguyen@tesla.com"
+      },
+      {
+        "Id": 3,
+        "Name": "Portfolio_Three",
+        "EntityCode": "4000",
+        "EntityName": "Entity 4000",
+        "Country": "US",
+        "Enabled": true,
+        "Createdat": "2020-06-26T21:16:08.763749Z",
+        "Createdby": "kylnguyen@tesla.com"
+      },
+      {
+        "Id": 4,
+        "Name": "Portfolio_Four",
+        "EntityCode": "5000",
+        "EntityName": "Entity 5000",
+        "Country": "US",
+        "Enabled": true,
+        "Createdat": "2020-06-26T21:16:08.763749Z",
+        "Createdby": "kylnguyen@tesla.com"
+      },
+      {
+        "Id": 5,
+        "Name": "Portfolio_Four",
+        "EntityCode": "6000",
+        "EntityName": "Entity 6000",
+        "Country": "US",
+        "Enabled": true,
+        "Createdat": "2020-06-26T21:16:08.763749Z",
+        "Createdby": "kylnguyen@tesla.com"
+      },
+      {
+        "Id": 6,
+        "Name": "Portfolio_Four",
+        "EntityCode": "7000",
+        "EntityName": "Entity 7000",
+        "Country": "US",
+        "Enabled": true,
+        "Createdat": "2020-06-26T21:16:08.763749Z",
+        "Createdby": "kylnguyen@tesla.com"
+      }
+    ],
+    "count": 6,
+    "total": 6,
+    "nextskip": 0
   },
   "comments": [
     {
