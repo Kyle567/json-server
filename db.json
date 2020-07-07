@@ -75,5 +75,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "leasing_service_get_rn": {"rn": "RN_BPMTest1234"}
 }
